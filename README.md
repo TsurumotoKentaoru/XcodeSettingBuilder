@@ -1,0 +1,2 @@
+# XcodeSettingBuilder
+Xcodeの設定を自動で行うクラス
